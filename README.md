@@ -4,7 +4,6 @@
 ### Interest
 - Web Front-end
 - Python / Machine Learnig
-- DB / MySQL
 
 <div align=center>
 
