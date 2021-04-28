@@ -3,7 +3,7 @@
 
 ### Interest
 - Web Front-end
-- Python / Machine Learnig
+- Machine Learnig
 
 <div align=center>
 
