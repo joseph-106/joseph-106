@@ -2,7 +2,7 @@
 - HUFS ELC & Software Convergence
 
 ### Interest
-- Front-end web development
+- Front-end development
 - Machine Learnig
 
 <div align=center>
