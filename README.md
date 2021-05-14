@@ -1,5 +1,5 @@
 ### Undergraduate student
-- HUFS ELC & Software Convergence 19
+- HUFS ELC & Software Convergenc
 
 ### Interest
 - Web Front-end
