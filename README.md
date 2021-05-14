@@ -1,4 +1,4 @@
-### College student
+### Undergraduate student
 - HUFS ELC & Software Convergence 19
 
 ### Interest
