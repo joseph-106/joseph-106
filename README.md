@@ -1,5 +1,5 @@
 ### Undergraduate student
-- HUFS ELC & Software/AI
+- HUFS ELC & Software & AI
 
 ### Interest
 - Front-end development
