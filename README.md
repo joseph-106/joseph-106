@@ -2,7 +2,7 @@
 - HUFS ELC & Software & AI
 
 ### Interest
-- Front-end development
+- Web development
 - Machine Learnig
 
 <div align=center>
