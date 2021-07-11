@@ -1,9 +1,18 @@
 ### Undergraduate student
-- HUFS ELC & Software & AI
+- Hankuk University of Foreign Studies 
+- Major in ELC & Software & AI
 
 ### Interest
-- Web development
-- Machine Learnig
+- Web development(React, Django)
+- Android development
+- Machine Learning
+
+### What I Experienced
+- J2KB 4기 멤버
+- 코딩월드뉴스 디지털라이프에디터
+- Codeit 대학생 코딩 캠프 3기(SQL, Git) 수료
+- 코뮤니티 모각코 웹 개발(HTML, CSS, JS) 과정 수료
+- 코뮤니티 모각코 안드로이드(Kotlin) 과정 진행 중
 
 <div align=center>
 
