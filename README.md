@@ -3,11 +3,11 @@
 - Major in ELC & Software & AI
 
 ### Interest
-- Web development(React, Django)
-- Android development
+- Web (React, Django)
+- Android
 - Machine Learning
 
-### What I Experienced
+### Experience
 - J2KB 4기 멤버
 - 코딩월드뉴스 디지털라이프에디터
 - Codeit 대학생 코딩 캠프 3기(SQL, Git) 수료
