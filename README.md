@@ -1,6 +1,6 @@
 ## Undergraduate student
 * Hankuk University of Foreign Studies 
-* Major in ELC & Software & AI
+* Major in ELC & Software Convergence
 
 ## Interest
 * Web (React, Django)
