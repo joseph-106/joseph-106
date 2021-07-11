@@ -3,7 +3,7 @@
 * Major in ELC & Software Convergence
 
 ## Interest
-* Web (React, Django)
+* Web(React, Django)
 * Android
 * Machine Learning
 
