@@ -14,7 +14,6 @@
 * 코뮤니티 모각코 웹 개발(HTML, CSS, JS) 과정 수료
 * 코뮤니티 모각코 안드로이드(Kotlin) 과정 진행 중
 
-## Contact
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://programming-oddments.tistory.com/)](https://programming-oddments.tistory.com/) 
