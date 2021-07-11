@@ -1,20 +1,20 @@
-### Undergraduate student
-- Hankuk University of Foreign Studies 
-- Major in ELC & Software & AI
+## Undergraduate student
+* Hankuk University of Foreign Studies 
+* Major in ELC & Software & AI
 
-### Interest
-- Web (React, Django)
-- Android
-- Machine Learning
+## Interest
+* Web (React, Django)
+* Android
+* Machine Learning
 
-### Experience
-- J2KB 4기 멤버
-- 코딩월드뉴스 디지털라이프에디터
-- Codeit 대학생 코딩 캠프 3기(SQL, Git) 수료
-- 코뮤니티 모각코 웹 개발(HTML, CSS, JS) 과정 수료
-- 코뮤니티 모각코 안드로이드(Kotlin) 과정 진행 중
+## Experience
+* J2KB 4기 멤버
+* 코딩월드뉴스 디지털라이프에디터
+* Codeit 대학생 코딩 캠프 3기(SQL, Git) 수료
+* 코뮤니티 모각코 웹 개발(HTML, CSS, JS) 과정 수료
+* 코뮤니티 모각코 안드로이드(Kotlin) 과정 진행 중
 
-### Contact
+## Contact
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://programming-oddments.tistory.com/)](https://programming-oddments.tistory.com/) 
