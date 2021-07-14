@@ -12,7 +12,7 @@
 * 코딩월드뉴스 [디지털라이프에디터](https://www.codingworldnews.com/news/articleList.html?sc_area=I&sc_word=sjjoseph&view_type=sm)
 * Codeit 대학생 코딩 캠프 3기(SQL, Git) 수료
 * 코뮤니티 모각코 웹 개발(HTML, CSS) 과정 수료
-* 코뮤니티 모각코 웹 개발(JS) 과정 수료
+* 코뮤니티 모각코 웹 개발(JavaScript) 과정 수료
 * 코뮤니티 모각코 안드로이드(Kotlin) 과정 진행 중
 
 <br>
