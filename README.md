@@ -8,7 +8,7 @@
 * Machine Learning
 
 ## Experience
-* J2KB 4기 멤버
+* J2KB 4th
 * 코딩월드뉴스 [디지털라이프에디터](https://www.codingworldnews.com/news/articleList.html?sc_area=I&sc_word=sjjoseph&view_type=sm)
 
 <br>
