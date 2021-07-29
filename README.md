@@ -8,8 +8,8 @@
 * Machine Learning
 
 ## Experience
-* J2KB 4th
-* 코딩월드뉴스 [디지털라이프에디터](https://www.codingworldnews.com/news/articleList.html?sc_area=I&sc_word=sjjoseph&view_type=sm)
+* [J2KB](https://www.j2kbcoding.com/1d861eb7-38dc-4663-a270-0414fc923c70) 4th
+* [코딩월드뉴스](https://www.codingworldnews.com/news/articleList.html?sc_area=I&sc_word=sjjoseph&view_type=sm) 디지털라이프에디터
 
 <br>
 <div align=center>
