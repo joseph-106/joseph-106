@@ -2,7 +2,7 @@
 * __Hankuk University of Foreign Studies__
 * Major in __ELC__ & __Software Convergence__
 
-## Teck Stack
+## Skills
 <div align=center>
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
