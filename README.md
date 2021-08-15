@@ -2,7 +2,7 @@
 * __Hankuk University of Foreign Studies__
 * Major in __ELC__ & __Software Convergence__
 
-## Skills
+## Teck Stack
 <div align=center>
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -24,7 +24,7 @@
 </div>
 
 ## Experience & Projects
-* Team BoomBaBoo (21.06 - )
+* BoomBaBoo (21.06 -)
   * [HUFS Live](https://github.com/Team-BoomBaBoo/HUFS_LIVE) `Web` `Back-end`
 
 * [코딩월드뉴스](https://www.codingworldnews.com/news/articleList.html?sc_area=I&sc_word=sjjoseph&view_type=sm) 에디터 (21.06 - 08)
@@ -32,7 +32,7 @@
 * [J2KB](https://www.j2kbcoding.com/1d861eb7-38dc-4663-a270-0414fc923c70) 4th (21.07 - )
   * Shall We Code `Web` `Front-end`
 
-* [Websolute](https://www.websolute.co.kr/home) (21.08 - )
+* [Websolute](https://www.websolute.co.kr/home) 개발팀원 (21.08 - )
 
 ## Contact
 <div align=center>
