@@ -24,7 +24,7 @@
 </div>
 
 ## Experience & Projects
-* BoomBaBoo (21.06 - )
+* HUFStudy - BoomBaBoo (21.06 - )
   * [HUFS Live](https://github.com/Team-BoomBaBoo/HUFS_LIVE) `Web` `Back-end`
 
 * [코딩월드뉴스](https://www.codingworldnews.com/news/articleList.html?sc_area=I&sc_word=sjjoseph&view_type=sm) 에디터 (21.06 - 08)
