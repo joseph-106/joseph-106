@@ -33,7 +33,7 @@
   * Shall we code `Web` `Front-end`
 
 * [Websolute](https://www.websolute.co.kr/home) 개발팀원 (21.08 - )
-  * Campus Map `Web` `Front-end`
+  * [Campus Map](https://campus-map.netlify.app/) `Web` `Front-end`
 
 ## Contact
 <div align=center>
