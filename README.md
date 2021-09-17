@@ -23,7 +23,6 @@
 * [코딩월드뉴스](https://www.codingworldnews.com/news/articleList.html?sc_area=I&sc_word=sjjoseph&view_type=sm) 에디터 (21.06 - 08)
 
 * [J2KB](https://www.j2kbcoding.com/1d861eb7-38dc-4663-a270-0414fc923c70) 4th (21.07 - 09)
-  * Shall we code `Web` `Front-end`
 
 * [Websolute](https://www.websolute.co.kr/home) 개발팀원 (21.08 - )
   * [Campus Map](https://campus-map.netlify.app/) `Web` `Front-end`
