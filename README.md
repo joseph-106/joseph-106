@@ -25,7 +25,7 @@
 * [J2KB](https://www.j2kbcoding.com/1d861eb7-38dc-4663-a270-0414fc923c70) 4th (21.07 - 09)
 
 * [Websolute](https://www.websolute.co.kr/home) 개발팀원 (21.08 - )
-  * [Campus Map](https://github.com/sinbox0701/campusmap-frontend) `Web` `Front-end`
+  * [Campus Map](https://github.com/joseph-106/campusmap-frontend) `Web` `Front-end`
 
 ## Contact
 <div align=center>
